@@ -1,0 +1,59 @@
+Discuss
+
+Rabu, 19 Juni 2019
+-----------------------------------------------
+GO TO IE : 10.100.2.231:5555 ( DEV MODE )
+U : plazatoyota\administrator
+P : P@ssw0rd
+-----------------------------------------------
+GO TO IE : 10.100.2.235:5555 ( LIVE MODE )
+U : plazatoyota\administrator
+P : P@ssw0rd
+-----------------------------------------------
+Microsoft Dynamics CRM
+
+1. DP
+2. Refund Leasing
+3. CFR
+
+POINT POINT Yang akan diubah kembali
+1. Amount in transaction curreny  on CRM Nilai yang digunakan dikembalikan kesebelumnya untuk proses lanjutan :
+
+Review Next
+--------------------------------
+	amount |   DP tax
+--------------------------------
+	40jt   |   4jt
+--------------------------------
+2. Report akan dimodifikasi 
+
+Review Next
+-------------------------------------
+Balance                    | Curency
+---------------------------
+DPP OP | PPN OP | TOTAL OP |
+-------------------------------------
+40 Jt	  4 Jt     44 Jt       44 Jt
+
+2B. Invoice just total
+
+11.27 vendor persentation
+
+3. Ar aging with COA yang hanya digunakan ( reportnya )
+4. kartu piutang ( not problem )
+5. Tambahan DP with tax report on coloum status ( Exported / none )
+
+13.19 vendor persentation
+1. penambahan nomor rangka 
+
+
+// 
+
+- Metode Pembayaran : semua yang bukan bank Mandiri masuknya ke rekening BCA dan jika itu rekening mandiri masuknya ke rekening mandiri
+kecuali di bandung menggunakan kas kecil
+- pembaruan sarat dokumen faktur ada 2 lembar
+- reporting validasi pembayaran
+
+
+note untuk IT : 
+Nama customers itu wajib ditampilkan 
